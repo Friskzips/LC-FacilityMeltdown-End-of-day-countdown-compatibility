@@ -1,0 +1,12 @@
+D:\Lethal company mod lc end of day countdown patch\FacilityMeltdown End of day countdown compatibility\bin\FacilityMeltdown End of day countdown compatibility.deps.json
+D:\Lethal company mod lc end of day countdown patch\FacilityMeltdown End of day countdown compatibility\bin\FacilityMeltdown End of day countdown compatibility.dll
+D:\Lethal company mod lc end of day countdown patch\FacilityMeltdown End of day countdown compatibility\bin\FacilityMeltdown End of day countdown compatibility.pdb
+D:\Lethal company mod lc end of day countdown patch\FacilityMeltdown End of day countdown compatibility\obj\Debug\FacilityMeltdown End of day countdown compatibility.csproj.AssemblyReference.cache
+D:\Lethal company mod lc end of day countdown patch\FacilityMeltdown End of day countdown compatibility\obj\Debug\MyPluginInfo.cs
+D:\Lethal company mod lc end of day countdown patch\FacilityMeltdown End of day countdown compatibility\obj\Debug\FacilityMeltdown End of day countdown compatibility.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lethal company mod lc end of day countdown patch\FacilityMeltdown End of day countdown compatibility\obj\Debug\FacilityMeltdown End of day countdown compatibility.AssemblyInfoInputs.cache
+D:\Lethal company mod lc end of day countdown patch\FacilityMeltdown End of day countdown compatibility\obj\Debug\FacilityMeltdown End of day countdown compatibility.AssemblyInfo.cs
+D:\Lethal company mod lc end of day countdown patch\FacilityMeltdown End of day countdown compatibility\obj\Debug\FacilityMeltdown End of day countdown compatibility.csproj.CoreCompileInputs.cache
+D:\Lethal company mod lc end of day countdown patch\FacilityMeltdown End of day countdown compatibility\obj\Debug\FacilityMeltdown End of day countdown compatibility.sourcelink.json
+D:\Lethal company mod lc end of day countdown patch\FacilityMeltdown End of day countdown compatibility\obj\Debug\FacilityMeltdown End of day countdown compatibility.dll
+D:\Lethal company mod lc end of day countdown patch\FacilityMeltdown End of day countdown compatibility\obj\Debug\FacilityMeltdown End of day countdown compatibility.pdb

@@ -1,0 +1,12 @@
+D:\Lethal company mod lc end of day countdown patch\Template\obj\Debug\Template.csproj.AssemblyReference.cache
+D:\Lethal company mod lc end of day countdown patch\Template\obj\Debug\MyPluginInfo.cs
+D:\Lethal company mod lc end of day countdown patch\Template\obj\Debug\Template.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lethal company mod lc end of day countdown patch\Template\obj\Debug\Template.AssemblyInfoInputs.cache
+D:\Lethal company mod lc end of day countdown patch\Template\obj\Debug\Template.AssemblyInfo.cs
+D:\Lethal company mod lc end of day countdown patch\Template\obj\Debug\Template.csproj.CoreCompileInputs.cache
+D:\Lethal company mod lc end of day countdown patch\Template\obj\Debug\Template.sourcelink.json
+D:\Lethal company mod lc end of day countdown patch\Template\bin\Template.deps.json
+D:\Lethal company mod lc end of day countdown patch\Template\bin\Template.dll
+D:\Lethal company mod lc end of day countdown patch\Template\bin\Template.pdb
+D:\Lethal company mod lc end of day countdown patch\Template\obj\Debug\Template.dll
+D:\Lethal company mod lc end of day countdown patch\Template\obj\Debug\Template.pdb

@@ -1,0 +1,18 @@
+[19:13:07 INF] Initializing assembly publicization
+[19:13:07 INF] Referenced assemblies: 261
+[19:13:07 INF] Publicize: LC CountDownMod:LC_CountDownMod.Patches.TimeOfDayUpdatePatch.Number
+[19:13:07 INF] Publicize: LC CountDownMod:LC_CountDownMod.Patches.TimeOfDayUpdatePatch.DownTimer
+[19:13:07 INF] Publicize: LC CountDownMod:LC_CountDownMod.Patches.TimeOfDayUpdatePatch.DisableDisabler
+[19:13:07 INF] Publicize: LC CountDownMod:LC_CountDownMod.Patches.TimeOfDayUpdatePatch.CountingDown
+[19:13:07 INF] Publicize: FacilityMeltdown:FacilityMeltdown.MeltdownSequence.Behaviours.MeltdownHandler.meltdownStarted
+[19:13:07 INF] [FacilityMeltdown] Assembly processing starting...
+[19:13:07 INF] [FacilityMeltdown] Path: D:\Lethal company mod lc end of day countdown patch\Lethal Company\BepInEx\plugins\FacilityMeltdown\FacilityMeltdown.dll
+[19:13:07 INF] [FacilityMeltdown] Publicization hash: 47311EC083718699D1DA0115244B6B5C
+[19:13:07 INF] [FacilityMeltdown] Assembly already publicized at obj\Debug\PublicizedAssemblies\FacilityMeltdown.47311EC083718699D1DA0115244B6B5C\FacilityMeltdown.dll
+[19:13:07 INF] [FacilityMeltdown] Assembly processing finished
+[19:13:07 INF] [LC CountDownMod] Assembly processing starting...
+[19:13:07 INF] [LC CountDownMod] Path: D:\Lethal company mod lc end of day countdown patch\Lethal Company\BepInEx\plugins\end of day countdown\LC CountDownMod.dll
+[19:13:07 INF] [LC CountDownMod] Publicization hash: A5BF910ED17B05BCEA6898EA53CB79F0
+[19:13:07 INF] [LC CountDownMod] Assembly already publicized at obj\Debug\PublicizedAssemblies\LC CountDownMod.A5BF910ED17B05BCEA6898EA53CB79F0\LC CountDownMod.dll
+[19:13:07 INF] [LC CountDownMod] Assembly processing finished
+[19:13:07 INF] Finished processing 2 assemblies. Terminating task.
