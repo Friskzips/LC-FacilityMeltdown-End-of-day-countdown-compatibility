@@ -1,10 +1,8 @@
-﻿using BepInEx;
+using BepInEx;
 using BepInEx.Logging;
 using HarmonyLib;
 using Friskzips.patch;
 using Friskzips.service;
-using LC_CountDownMod.Patches;
-using static Friskzips.patch.MeltdownCheck;
 
 namespace Friskzips;
 
