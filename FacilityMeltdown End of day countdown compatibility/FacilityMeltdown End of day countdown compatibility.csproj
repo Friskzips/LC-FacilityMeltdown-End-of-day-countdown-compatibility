@@ -1,4 +1,4 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+<Project Sdk="Microsoft.NET.Sdk">
 
     <Import Project="..\Common.props" />
 
@@ -56,15 +56,15 @@
       </Reference>
 
 		<Reference Include="End of day countdown">
-			<HintPath>D:\Lethal company mod lc end of day countdown patch\Lethal Company\BepInEx\plugins\end of day countdown\LC CountDownMod.dll</HintPath>
+			<HintPath>D:\Lethal company mod lc end of day countdown patch\Lethal Company\BepInEx\plugins\end of day countdown\NoteBoxz.EndOfDayCountdownV2.dll</HintPath>
 			<Private>True</Private>
 		</Reference>
 
-	<Publicize Include="LC CountDownMod:LC_CountDownMod.Patches.TimeOfDayUpdatePatch.Number" />
-	<Publicize Include="LC CountDownMod:LC_CountDownMod.Patches.TimeOfDayUpdatePatch.DownTimer" />
-	<Publicize Include="LC CountDownMod:LC_CountDownMod.Patches.TimeOfDayUpdatePatch.DisableDisabler" />	
-	<Publicize Include="LC CountDownMod:LC_CountDownMod.Patches.TimeOfDayUpdatePatch.CountingDown" />
-	<Publicize Include="FacilityMeltdown:FacilityMeltdown.MeltdownSequence.Behaviours.MeltdownHandler.meltdownStarted" />
+	<Publicize Include="NoteBoxz.EndOfDayCountdownV2:LCcountdownMod2.TimeOfDayUpdatePatch.Number" />
+	<Publicize Include="NoteBoxz.EndOfDayCountdownV2:LCcountdownMod2.TimeOfDayUpdatePatch.DownTimer" />
+	<Publicize Include="NoteBoxz.EndOfDayCountdownV2:LCcountdownMod2.TimeOfDayUpdatePatch.DisableDisabler" />	
+	<Publicize Include="NoteBoxz.EndOfDayCountdownV2:LCcountdownMod2.TimeOfDayUpdatePatch.CountingDown" />
+	<Publicize Include="NoteBoxz.EndOfDayCountdownV2:FacilityMeltdown.MeltdownSequence.Behaviours.MeltdownHandler.meltdownStarted" />
 
 
 
