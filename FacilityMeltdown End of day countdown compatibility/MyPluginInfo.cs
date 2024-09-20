@@ -4,6 +4,6 @@ namespace Friskzips
     {
         public const string PLUGIN_GUID = "Friskzips.FM-EODC-C";
         public const string PLUGIN_NAME = "FM-EODC-C";
-        public const string PLUGIN_VERSION = "1.0.0";
+        public const string PLUGIN_VERSION = "1.1.1";
     }
 }
