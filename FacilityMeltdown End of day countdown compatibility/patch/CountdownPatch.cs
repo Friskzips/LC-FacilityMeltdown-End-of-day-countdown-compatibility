@@ -1,13 +1,12 @@
-﻿
+
+
 namespace Friskzips.patch;
 
-
 using HarmonyLib;
-using LC_CountDownMod.Patches;
+using LCcountdownMod2;
 using FacilityMeltdown.MeltdownSequence.Behaviours;
 using UnityEngine;
 using Friskzips;
-using LC_CountDownMod;
 
 
 [HarmonyPatch(typeof(MeltdownHandler))]
@@ -48,11 +47,11 @@ public class TenSecondCheck : MonoBehaviour
         {
             TimeOfDayUpdatePatch.DisableDisabler = false;
             TimeOfDayUpdatePatch.DownTimer = 2.5f;
-            TimeOfDayUpdatePatch.Number = 9;
+            TimeOfDayUpdatePatch.Number = 0;
             TimeOfDayUpdatePatch.CountingDown = true;
-            CountDownModBase.countdowner.SpawnCountdown();
-            CountDownModBase.countdowner.SetCanvasLayer(CountDownModBase.CountdownUISortOrder.Value);
-            CountDownModBase.countdowner.Countdown(10);
+            global::LCcountdownMod2.LCcountdownMod2.CountDownInstace.Count(global::LCcountdownMod2.LCcountdownMod2.Txts[TimeOfDayUpdatePatch.Number], global::LCcountdownMod2.LCcountdownMod2.TxtSizes[TimeOfDayUpdatePatch.Number]);
+            TimeOfDayUpdatePatch.Number++;
+            TimeOfDayUpdatePatch.DownTimer = 2.5f;
 
             MeltdownCheck.triggerOnce = false;
             
